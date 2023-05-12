@@ -42,5 +42,7 @@ class Operators {
         // is less than or equal to
         System.out.println(number1 <= number2);
 
+        // java also have ++ and -- operator that increments and decrements integers.
+
     }
 }
