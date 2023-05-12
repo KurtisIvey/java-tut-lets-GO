@@ -5,6 +5,10 @@
 } */
 
 class HelloWorld {
+
+    // when num declared without value, java assigns default value of 0
+    static int age;
+
     public static void main(String[] args) {
         int age = 27;
         // redeclared variables cause error
